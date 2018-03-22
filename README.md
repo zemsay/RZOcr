@@ -1,0 +1,2 @@
+# RZOcr
+OCR library
