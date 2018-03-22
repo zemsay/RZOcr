@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">rzocr</string>
+    <string name="title_activity_com.zemsay.rz.ocr">com.zemsay.rz.ocr</string>
+    <string name="title_activity_ocr">OcrActivity</string>
+</resources>
