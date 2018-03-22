@@ -21,7 +21,7 @@
  
     dependencies {
       ...
-      compile 'com.github.zemsay:RZOcr:v1.0.1'
+      compile 'com.github.zemsay:RZOcr:v1.0.2'
       ...
     }
 
